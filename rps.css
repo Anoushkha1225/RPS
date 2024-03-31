@@ -1,0 +1,25 @@
+/* rps.css */
+
+#user-choice {
+    margin-top: 50px;
+    text-align: center;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+button img {
+    width: 100px;
+    height: 100px;
+}
+
+p#message {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
